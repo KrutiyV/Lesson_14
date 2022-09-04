@@ -115,3 +115,4 @@ namespace InternetShop
         }
     }
 }
+//checked
